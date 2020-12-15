@@ -1,6 +1,6 @@
 # Numerical-Methods-Python-Implementation
 
-This repository will contains the Numerical Methods implementation in Python Language.
+This repository will contains the Numerical Methods implementation in Python Language.<br>
 Methods:
 1) Bisection Method.
 2) Regula Falsie Method.
